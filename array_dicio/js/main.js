@@ -26,7 +26,7 @@ function apto(id){
 */
 
 function clique(){
-    //alert("Vai clicar na casa do carai, só quem pode clicar é nois!");
+    
     document.getElementById("agradecimento").innerHTML = "Virus instalado com sucesso, obrigado pela colaboração! "
     
 }
