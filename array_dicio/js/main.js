@@ -20,7 +20,7 @@ function apto(id){
     if (id >= 59){
             return alert("APTO A RECEBER A VACINA!" );
     } else{
-            return alert ("AGUARDE SUA VEZ, FELA DA PUTA!");
+            return alert ("AGUARDE SUA VEZ!");
     }
 }
 */
